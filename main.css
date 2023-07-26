@@ -8,8 +8,6 @@
 
 section {
   max-width: 1400px;
-  margin: 0 auto;
-  padding: 50px 50px 50px 50px;
 }
 
 .container {
@@ -222,13 +220,13 @@ section {
 .container .chiz1 {
   width: 130px;
   height: 1px;
-  background-color: #f20f0f;
+  background-color: #000000;
   border: 1px;
 }
 .container .chiz2 {
   width: 130px;
   height: 1px;
-  background-color: #f20f0f;
+  background-color: #000000;
   border: 1px;
 }
 .container .chizz {
